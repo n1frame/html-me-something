@@ -1,6 +1,6 @@
 body{background-color:grey;site-alignment:center;}
 .main-header{text-align:center;color:white;width:100%;background-color: #222; padding:60px 0px;}
-.introduction{text-align:center;}
+#introduction{text-align:center; margin: 2cm 4cm 3cm 4cm;}
 .guy-bourdin{text-align:center;}
 .john-edmonds{text-align:center;}
 .gordon-parks{text-align:center;}
